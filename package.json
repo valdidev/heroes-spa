@@ -9,6 +9,13 @@
     "preview": "vite preview",
     "test": "jest --watchAll"
   },
+  "keywords": [
+    "reactjs",
+    "jest",
+    "tdd"
+  ],
+  "author": "Fernando Valdivielso - @valdidev",
+  "license": "MIT",
   "dependencies": {
     "query-string": "^7.1.1",
     "react": "^18.2.0",
